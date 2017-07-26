@@ -4,7 +4,7 @@ Hello!
 
 I'm glad to meet you.
 
-Now, I'm learning HTML and how to use github.
+Now, I'm learning HTML and how to use Github.
 
 So, please wait!!
 
