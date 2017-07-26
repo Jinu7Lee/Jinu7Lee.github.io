@@ -1,36 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Jinu's Pages
 
-You can use the [editor on GitHub](https://github.com/Jinu7Lee/Jinu7Lee.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm glad to meet you.
 
-### Markdown
+Now, I'm learning HTML and how to use github.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So, please wait!!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Jinu에 대한 정보
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jinu7Lee/Jinu7Lee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+관심사 : 빅데이터, 쳇봇, 딥러닝, AI, 사업, 여행, 엑티비티
+전공 : 기계공학
+경력 : 실무경력 없음
+기타 : 열정은 높으나 업무로 인한 시간관리 문제가 있음, 데이터 사이언스 책 두권 사뒀지만 전혀 읽지 못함, 8월말부터 석사 입학 예정, 잘부탁드립니다.
 
 ### Support or Contact
 
